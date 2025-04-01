@@ -156,6 +156,14 @@ nav {
   /* navigation */
 
   header {
+    max-width: 1500px;
+  }
+}
+
+@media (min-width: 110rem) {
+  /* navigation */
+
+  header {
     max-width: 1610px;
   }
 }

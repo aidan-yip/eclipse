@@ -1,0 +1,11 @@
+.favorite-page{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10rem;
+}
+
+.no-fav-text{
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 5rem;
+}

@@ -63,6 +63,9 @@ function SplideSlider() {
         interval: 3500, // 4 second interval
         pauseOnHover: false,
         direction: "ltr",
+        // wheel: true,
+        // releaseWheel: true,
+        // wheelMinThreshold: 10,
       }}
     >
       {popularMovies.length > 0 && (

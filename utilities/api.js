@@ -69,4 +69,4 @@ function getsearchedMovies(query) {
             throw error;
         });
 }
-export { getMovies, getMovieById, getMovieCast, getRecommendedMovies,getsearchedMovies };
+export { getMovies, getMovieById, getMovieCast, getRecommendedMovies, getsearchedMovies };
