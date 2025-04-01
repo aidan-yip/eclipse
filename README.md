@@ -1,3 +1,1 @@
-# A Movie Database created with React + Vite, MUI, Splide and the TMDB API
-
-## Contributors: Muskan, Vansh & Aidan
+# A Movie Database created with React, Vite, MUI and The Movie Database API
