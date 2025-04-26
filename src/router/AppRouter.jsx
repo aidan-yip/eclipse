@@ -12,7 +12,7 @@ import { GlobalProvider } from "../context/GlobalContext";
 import SearchResult from "../pages/SearchResult";
 
 const AppRouter = () => (
-  <BrowserRouter basename="/eclipse">
+  <BrowserRouter>
     <GlobalProvider>
       <Header />
       <main id="maincontent">
