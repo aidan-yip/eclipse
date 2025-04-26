@@ -3,7 +3,7 @@ import "./header.css";
 import { Link } from "react-router-dom";
 import React, { useEffect, useState } from "react";
 import site_logo from "/images/moviedb_iconv2.png";
-import SearchBar from "./SearchBar";
+import SearchBar from "./searchBar";
 
 function Header() {
   const [isActive, setActive] = useState(false);
