@@ -1,10 +1,9 @@
 import { APP_TITLE } from "../globals/globals";
-import "./Header.css";
+import "./header.css";
 import { Link } from "react-router-dom";
 import React, { useEffect, useState } from "react";
 import site_logo from "/images/moviedb_iconv2.png";
 import SearchBar from "./SearchBar";
-import { getsearchedMovies } from "../utilities/api";
 
 function Header() {
   const [isActive, setActive] = useState(false);
